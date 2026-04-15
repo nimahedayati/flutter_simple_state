@@ -1,7 +1,7 @@
-name: flutter_simple_state
+name: flutter_simple_usestate
 description: "A simple and lightweight state management library."
 version: 0.0.1
-homepage: https://github.com/nimahedayati/flutter_simple_state
+homepage: https://github.com/nimahedayati/flutter_simple_usestate
 
 environment:
   sdk: ^3.10.7

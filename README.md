@@ -1,4 +1,4 @@
-# 🪶 Flutter Simple State
+# 🪶 Flutter Simple UseState
 
 A **simple and minimal state management solution** built on top of Flutter’s `ValueNotifier`.
 
@@ -21,7 +21,7 @@ This library provides a clean, hook-like API to manage state with **almost zero 
 ### Import the library
 
 ```dart
-import 'package:flutter_simple_state/flutter_simple_state.dart';
+import 'package:flutter_simple_usestate/flutter_simple_usestate.dart';
 ```
 
 ---
